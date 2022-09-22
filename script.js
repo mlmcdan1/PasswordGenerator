@@ -26,6 +26,7 @@ if (!inputLength) {
   else {
   break;
   }
+}
 
 
 var lowerCase = (prompt("Do you want to include lowercase characters? (Enter yes or No: )"));
@@ -39,7 +40,7 @@ var specialCharacters = (prompt("Do you want to include special characters? (Ent
 
 
 
-}
+
 
 // if acceptable input length, prompt next criteria of character types
 
