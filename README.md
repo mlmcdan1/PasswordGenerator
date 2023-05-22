@@ -1,4 +1,4 @@
-# Javascreipt Challenge: Password Generator
+# Javascript Challenge: Password Generator
 
 ## This challenge I had to create an application that can generate a random password. 
 ## Users are prompted to to select the number/length of characters. 
