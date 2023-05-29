@@ -7,4 +7,4 @@
 ![PasswordGeneratorScreenshot](./IMG/PswdGenerator.png)
 
 # Deployable Link
-https://mlmcdan1.github.io/-Challenge3-PasswordGenerator/
+https://mlmcdan1.github.io/PasswordGenerator/
